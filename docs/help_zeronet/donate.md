@@ -7,6 +7,9 @@
 ## ZeroNet: 2018 first half
 <a href="bitcoin:1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX?Label=ZeroNet+donation" class="bitcoinbar" data-address="1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX" data-goal="9.5"></a>
 
+## ZeroNet: 2019 first half
+<a href="bitcoin:1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX?Label=ZeroNet+donation" class="bitcoinbar" data-address="1QDhxQ6PraUZa21ET5fYUCPgdrwBomnFgX" data-goal="9.5"></a>
+
 * General donation towards ZeroNet development
 
 <div>or using PayPal:
